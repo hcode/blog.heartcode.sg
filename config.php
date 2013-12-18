@@ -4,10 +4,10 @@
 
 $config['site_title'] = 'HeartCode';    // Site title
 $config['base_url'] = 'http://blog.heartcode.sg';               // Override base URL (e.g. http://example.com)
-$config['theme'] = 'default';           // Set the theme (defaults to "default")
+$config['theme'] = 'heartcode';           // Set the theme (defaults to "default")
 $config['date_format'] = 'jS M Y';      // Set the PHP date format
 $config['twig_config'] = array(         // Twig settings
-    'cache' => CACHE_DIR,                   // To enable Twig caching change this to CACHE_DIR
+    'cache' => false,                   // To enable Twig caching change this to CACHE_DIR
     'autoescape' => false,              // Autoescape Twig vars
     'debug' => false                    // Enable Twig debug
 );
