@@ -3,7 +3,7 @@ Title: Emily Wang joins HeartCode
 Date: 2013/12/21
 Description: Emily Wang, a lover for great branding and design, joins the HeartCode team in building a better society.
 Author: Sam Yong
-Tags: jobs
+Tags: hiring,staff
 Category: New Staff
 */
 
