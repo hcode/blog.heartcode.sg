@@ -18,3 +18,12 @@ $config['excerpt_length'] = 50;         // The pages excerpt length (in words)
 // To add a custom config setting:
 
 $config['custom_setting'] = 'Hello';    // Can be accessed by {{ config.custom_setting }} in a theme
+
+$config['custom_meta_values'] = array(
+    //page slug keep lower case
+    'slug' => 'Slug',
+    //page category
+    'category' => 'Category',
+    //page status
+    'status' => 'Status'
+);
