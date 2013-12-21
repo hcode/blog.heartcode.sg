@@ -69,12 +69,22 @@
                         <li class="list-group-item"><a href="http://heartcode.sg/contact">Contact Us</a></li>
                     </ul>
                 </div>
+                <div class="panel panel-default">
+                    <div class="panel-heading">Recent Posts</div>
+                    <ul class="list-group">
+                    {% for page in pages|slice(0, 10) %}
+                        {% if page.date %}
+                        <li class="list-group-item"><a href="{{ page.url }}">{{ page.title }}</a></li>
+                        {% endif %}
+                    {% endfor %}
+                    </ul>
+                </div>
             </div>
         </div>
         <div class="row">
             <div class="col-md-12">
                 <footer>
-                        &copy; HeartCode Pte. Ltd.
+                    &copy; HeartCode Pte. Ltd.
                 </footer>
             </div>
         </div>
