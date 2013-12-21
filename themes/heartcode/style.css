@@ -45,4 +45,13 @@ header img{
 
 img{
     image-rendering:optimizeQuality;
+    display: block;
+    height: auto;
+    max-width: 100%;
+    border-radius:5px;
+}
+
+.social-icons img{
+    border-radius: 0px;
+    display:inline;
 }
