@@ -89,6 +89,10 @@
             </div>
         </div>
     </div>
-    <script type="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.2/js/bootstrap.min.js"></script>
+    <script src="{{ theme_url }}/asyncloader.js"></script>
+    <script>
+        AsyncLoader.add('//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js', 'jquery');
+        AsyncLoader.depends(['jquery'], '//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.2/js/bootstrap.min.js', 'bootstrap');
+    </script>
 </body>
 </html>
