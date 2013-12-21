@@ -14,10 +14,15 @@
 <body>
 
     <div class="container">
-        <div class="col-md-12">
-            <header id="header">
-                <h1><a href="{{ base_url }}">{{ site_title }}</a></h1>
-            </header>
+        <div class="row">
+            <div class="col-md-12">
+                <header>
+                    <a href="{{ base_url }}">{{ site_title }}</a>
+                </header>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-9">
 
 {% if is_front_page %} <!-- Front page lists all blog posts -->
 
@@ -26,7 +31,7 @@
         {% if page.date %} <!-- Note we check for Date field (posts) here -->
         <div class="post">
             <h3><a href="{{ page.url }}">{{ page.title }}</a></h3>
-            <p class="meta">{{ page.date_formatted }}</p>
+        <p class="meta">{{ meta.date_formatted }} by {% if meta.author %}{{meta.author}}{% else %}HeartCode{% endif %}</p>
             <p class="excerpt">{{ page.excerpt }}</p>
         </div>
         {% endif %}
@@ -35,18 +40,26 @@
 
 {% else %} <!-- Single page shows individual blog post -->
 
+    {% if page.date %} <!-- Note we check for Date field (posts) here -->
     <div class="post">
         {% if meta.title %}<h2>{{ meta.title }}</h2>{% endif %}
-        <p class="meta">{{ meta.date_formatted }}</p>
+        <p class="meta">{{ meta.date_formatted }} by {% if meta.author %}{{meta.author}}{% else %}HeartCode{% endif %}</p>
         {{ content }}
     </div>
+    {% else %} <!-- Single page shows content only -->
+    {% if meta.title %}<h2>{{ meta.title }}</h2>{% endif %}
+    {{ content }}
+    {% endif %}
 
 {% endif %}
-            <footer id="footer">
-                <div class="inner">
-                    &copy; HeartCode Pte. Ltd.
-                </div>
-            </footer>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <footer>
+                        &copy; HeartCode Pte. Ltd.
+                </footer>
+            </div>
         </div>
     </div>
     <script type="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.2/js/bootstrap.min.js"></script>
