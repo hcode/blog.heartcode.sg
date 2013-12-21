@@ -46,8 +46,11 @@
         {% if meta.title %}<h1>{{ meta.title }}</h1>{% endif %}
         <p class="meta">Written {% if meta.author %}by {{meta.author}}{% endif %} on {{ meta.date_formatted }}, in {{ meta.category }}</p>
         {{ content }}
-        <p class="meta">Tags: {% for tag in meta.tags %}<a href="{{ base_url }}/tag/{{ tag }}">#{{ tag }}</a>{% endfor %}</p>
+        <p class="meta">Tagged {% for tag in meta.tags %}<a href="{{ base_url }}/tag/{{ tag }}">#{{ tag }}</a> {% endfor %}</p>
     </div>
+        <div class="well well-sm">
+            <small>Have feedback on this post? Let HeartCode know via <a href="https://facebook.com/heartcodesg">Facebook</a>, <a href="https://twitter.com/heartcodesg">Twitter</a> or <a href="http://heartcode.sg/contact">email</a>.</small>
+        </div>
     {% else %} <!-- Single page shows content only -->
         {% if meta.title %}<h1>{{ meta.title }}</h1>{% endif %}
         {{ content }}
@@ -58,10 +61,10 @@
             <div class="col-md-3">
                 <div class="panel panel-default">
                     <div class="panel-body">
-                        <a target="_blank" title="HeartCode on Facebook" href="http://facebook.com/heartcode.sg">
+                        <a target="_blank" title="HeartCode on Facebook" href="https://facebook.com/heartcodesg">
                             <img alt="HeartCode on Facebook" src="http://heartcode.sg/assets/images/icons/facebook.png">
                         </a>
-                        <a target="_blank" title="HeartCode on Twitter" href="http://twitter.com/heartcodesg">
+                        <a target="_blank" title="HeartCode on Twitter" href="https://twitter.com/heartcodesg">
                             <img alt="HeartCode on Twitter" src="http://heartcode.sg/assets/images/icons/twitter-2.png">
                         </a>
                     </div>
