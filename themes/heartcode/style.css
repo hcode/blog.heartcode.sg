@@ -32,3 +32,17 @@ h2{
     color:#aaa;
     font-size:80%;
 }
+
+header,footer{
+    margin: 30px 0;
+}
+
+header img{
+    width:270px;
+    margin:0px auto;
+    display:block;
+}
+
+img{
+    image-rendering:optimizeQuality;
+}
