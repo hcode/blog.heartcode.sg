@@ -24,4 +24,11 @@ h2{
 
 /* -------- */
 
+.post{
+    margin: 0px 0px 30px;
+}
 
+.post .meta{
+    color:#aaa;
+    font-size:80%;
+}
