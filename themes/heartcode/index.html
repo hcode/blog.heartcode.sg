@@ -47,10 +47,15 @@
         <p class="meta">Written {% if meta.author %}by {{meta.author}}{% endif %} on {{ meta.date_formatted }}, in {{ meta.category }}</p>
         {{ content }}
         <p class="meta">Tagged {% for tag in meta.tags %}<a href="{{ base_url }}/tag/{{ tag }}">#{{ tag }}</a> {% endfor %}</p>
-    </div>
+        <div>
+            <div class="fb-like" data-href="https://facebook.com/heartcodesg" data-width="80" data-height="20" data-colorscheme="light" data-layout="button_count" data-action="like" data-show-faces="true" data-send="false"></div>
+            <a href="https://twitter.com/share" class="twitter-share-button" data-via="heartcodesg" data-related="heartcodesg" data-hashtags="heartcode">Tweet to HeartCode</a>
+            <div class="g-plusone" data-size="medium"></div>
+        </div>
         <div class="well well-sm">
             <small>Have feedback on this post? Let HeartCode know via <a href="https://facebook.com/heartcodesg">Facebook</a>, <a href="https://twitter.com/heartcodesg">Twitter</a> or <a href="http://heartcode.sg/contact">email</a>.</small>
         </div>
+    </div>
     {% else %} <!-- Single page shows content only -->
         {% if meta.title %}<h1>{{ meta.title }}</h1>{% endif %}
         {{ content }}
@@ -98,6 +103,11 @@
     </div>
     <script src="{{ theme_url }}/asyncloader.js"></script>
     <script>
+        {% if not is_front_page %}
+        AsyncLoader.add('https://apis.google.com/js/plusone.js', 'gplus');
+        AsyncLoader.add('//connect.facebook.net/en_US/all.js#xfbml=1&appId=180508825470385', 'fb-sdk');
+        AsyncLoader.add('//platform.twitter.com/widgets.js', 'twitter-wjs');
+        {% endif %}
         AsyncLoader.add('//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js', 'jquery');
         AsyncLoader.depends(['jquery'], '//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.2/js/bootstrap.min.js', 'bootstrap');
     </script>
