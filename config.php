@@ -27,3 +27,5 @@ $config['custom_meta_values'] = array(
     //page status
     'status' => 'Status'
 );
+
+$config['opengraph_default_image'] = 'http://heartcode.sg/assets/images/heartcode-tag-bigsquare.png';
