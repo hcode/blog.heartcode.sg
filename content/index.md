@@ -1,3 +1,3 @@
 /*
-Title: Welcome to HeartCode's blog
+Title: The HeartCode blog
 */
