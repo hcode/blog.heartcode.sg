@@ -31,7 +31,7 @@
         {% if page.date %} <!-- Note we check for Date field (posts) here -->
         <div class="post">
             <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
-            <p class="meta">{{ page.date_formatted }} by {% if meta.author %}{{meta.author}}{% else %}HeartCode{% endif %}</p>
+            <p class="meta">Written {% if meta.author %}by {{meta.author}}{% endif %} on {{ page.date_formatted }}</p>
             <p class="excerpt">{{ page.excerpt }}</p>
         </div>
         {% endif %}
@@ -40,15 +40,15 @@
 
 {% else %} <!-- Single page shows individual blog post -->
 
-    {% if page.date %} <!-- Note we check for Date field (posts) here -->
+    {% if meta.date %} <!-- Note we check for Date field (posts) here -->
     <div class="post">
         {% if meta.title %}<h1>{{ meta.title }}</h1>{% endif %}
-        <p class="meta">{{ page.date_formatted }} by {% if meta.author %}{{meta.author}}{% else %}HeartCode{% endif %}</p>
+        <p class="meta">Written {% if meta.author %}by {{meta.author}}{% endif %} on {{ meta.date_formatted }}</p>
         {{ content }}
     </div>
     {% else %} <!-- Single page shows content only -->
-    {% if meta.title %}<h2>{{ meta.title }}</h2>{% endif %}
-    {{ content }}
+        {% if meta.title %}<h1>{{ meta.title }}</h1>{% endif %}
+        {{ content }}
     {% endif %}
 
 {% endif %}
