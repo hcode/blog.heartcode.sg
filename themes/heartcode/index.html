@@ -30,8 +30,8 @@
     {% for page in pages %}
         {% if page.date %} <!-- Note we check for Date field (posts) here -->
         <div class="post">
-            <h3><a href="{{ page.url }}">{{ page.title }}</a></h3>
-        <p class="meta">{{ meta.date_formatted }} by {% if meta.author %}{{meta.author}}{% else %}HeartCode{% endif %}</p>
+            <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
+            <p class="meta">{{ page.date_formatted }} by {% if meta.author %}{{meta.author}}{% else %}HeartCode{% endif %}</p>
             <p class="excerpt">{{ page.excerpt }}</p>
         </div>
         {% endif %}
@@ -42,8 +42,8 @@
 
     {% if page.date %} <!-- Note we check for Date field (posts) here -->
     <div class="post">
-        {% if meta.title %}<h2>{{ meta.title }}</h2>{% endif %}
-        <p class="meta">{{ meta.date_formatted }} by {% if meta.author %}{{meta.author}}{% else %}HeartCode{% endif %}</p>
+        {% if meta.title %}<h1>{{ meta.title }}</h1>{% endif %}
+        <p class="meta">{{ page.date_formatted }} by {% if meta.author %}{{meta.author}}{% else %}HeartCode{% endif %}</p>
         {{ content }}
     </div>
     {% else %} <!-- Single page shows content only -->
