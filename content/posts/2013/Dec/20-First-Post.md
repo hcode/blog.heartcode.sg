@@ -3,7 +3,6 @@ Title: First Post
 Date: 2013/12/20
 Description: HeartCode's blog is finally up and here's our first blog post! Stay updated to our services and learn what we do by checking in on our blog frequently.
 Author: Sam Yong
-Tags: new
 Category: New Stuff
 */
 
