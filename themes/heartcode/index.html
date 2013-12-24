@@ -32,7 +32,7 @@
         {% if page.date %} <!-- Note we check for Date field (posts) here -->
         <div class="post">
             <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
-            <p class="meta">Written {% if meta.author %}by {{meta.author}}{% endif %} on {{ page.date_formatted }}, in {{ page.category }}</p>
+            <p class="meta">Written {% if page.author %}by {{page.author}}{% endif %} on {{ page.date_formatted }}{% if page.category %}, in {{ page.category }}{% endif %}</p>
             <p class="excerpt">{{ page.excerpt }} ...</p>
         </div>
         {% endif %}
@@ -44,7 +44,7 @@
     {% if meta.date %} <!-- Note we check for Date field (posts) here -->
     <div class="post">
         {% if meta.title %}<h1>{{ meta.title }}</h1>{% endif %}
-        <p class="meta">Written {% if meta.author %}by {{meta.author}}{% endif %} on {{ meta.date_formatted }}, in {{ meta.category }}</p>
+        <p class="meta">Written {% if meta.author %}by {{meta.author}}{% endif %} on {{ meta.date_formatted }}{% if meta.category %}, in {{ meta.category }}{% endif %}</p>
         {{ content }}
         <p class="meta">Tagged {% for tag in meta.tags %}<a href="{{ base_url }}/tag/{{ tag }}">#{{ tag }}</a> {% endfor %}</p>
         <div>
