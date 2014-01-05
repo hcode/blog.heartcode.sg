@@ -1,6 +1,8 @@
 #[blog.heartcode.sg](http://blog.heartcode.sg/)
 
-HeartCode's company blog using Pico CMS. 
+HeartCode's company blog using Pico CMS.
+
+Theme uses Bootstrap and jQuery. 
 
 ##Plugins
 
