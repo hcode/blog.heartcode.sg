@@ -1,6 +1,6 @@
 /*
 Title: New Year, New Office
-Date: 2014/1/1
+Date: 2014/01/01
 Description: HeartCode wishes everyone a very Merry Christmas and a Happy New Year!
 Author: Sam Yong
 Tags: office
