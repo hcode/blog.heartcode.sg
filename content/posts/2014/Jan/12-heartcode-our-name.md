@@ -21,14 +21,14 @@ Defined by the [Merriam Webster's Online Dictionary](http://www.merriam-webster.
 
 ###Code
 
-In creating software applications, our software designers and developers work tirelessly to craft great solutions that fit the needs of our clients. This  process of writing software is also often referred to coding. 
+In creating software applications, our software designers and developers work tirelessly to craft great solutions that fit the needs of our clients.
 
-This represented the very core work that we provide in our business.
+The process of converting written instructions into user-friendly software by our people is also often referred to coding. This represents the very core work that we provide in our business.
 
 ___
 
 By joining the two words, we came up with "HeartCode". Through our company name, we give only the best in coding great software applications and technologies that can only come from our hearts.
 
-By the way, HeartCode is turning big one this coming Febraury! Stay tune for more updates!
+By the way, HeartCode is turning big 1 year old this coming Febraury! Stay tuned on [our blog](https://blog.heartcode.sg/), [Facebook](https://facebook.com/heartcodesg) or [Twitter](https://twitter.com/heartcodesg) for more updates!
 
 Edward
