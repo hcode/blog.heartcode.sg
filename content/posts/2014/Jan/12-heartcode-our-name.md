@@ -1,27 +1,34 @@
 /*
 Title: HeartCode, Our Name
 Date: 2014/1/12
-Description: HeartCode is turning 2!
-Author: Yi Wei
+Description: Learn how the name "HeartCode" was given to our company and its meaning behind.
+Author: Edward Neo
 Tags: office
 */
 
-With the recent opening of our new office at [Wooldands 11](https://goo.gl/maps/g2Kgq), questions might has arise to how we named our company, and why we did so.
+With the recent opening of our new office at [Woodlands 11](https://goo.gl/maps/g2Kgq), we have curious people asking how we came up with the name "HeartCode" and the meaning behind it. 
 
-If you had not alredy known, HeartCode was initially a team which comprised of 6-7 members. Some of the team members were previously involved in a project called TAVI, an application aimed to improved the lives of blind commuters in Singapore. But, all of whom came together with a greater goal in mind; to help society by giving aid to VWO, SWO, non-profit organisations and improving their processes and outreach through innvation. 
+[When HeartCode was founded](http://heartcode.sg/about/founding), all of us came together with a great vision set in mind: to improve society using software and technology innovation in the social sector's voluntary welfare organisations (VWO), social welfare organisations (SWO) and non-profit organisations (NPO). 
 
-Heart 
+We decided that there were two words that best describe what we want to achieve: "Heart" and "Code". 
+___
 
-Why "Heart"? We believe that to be true and sincere in our vision, we must use our heart to feel and understand the different needs of our society. As quoted from Google; Heart - "The central or innermost part of something." Only by using our innermost feelings would we be able to bring out the best in what we do.
+###Heart 
 
-Code
+Staying true to our vision, we use our hearts to feel and understand the different needs of our society. 
 
-And "Code"? I believe this needs no explanation. Our works come in the form of software applications and solutions; requring expertise in different markup language aka coding. 
+Defined by the [Merriam Webster's Online Dictionary](http://www.merriam-webster.com/dictionary/heart), the word *Heart* is defined to be "one's innermost character, feelings, or inclinations." We believe that only by putting in our best efforts using our hearts, we will deliver quality software make our society better.
 
-Thus by joining the two words, we named ourselves "HeartCode".
+###Code
 
-Through coding, we aim to give the best, and the best could only come from our heart.
+In creating software applications, our software designers and developers work tirelessly to craft great solutions that fit the needs of our clients. This  process of writing software is also often referred to coding. 
 
-With this, HeartCode is turning 2! Stay tune for more updates!
+This represented the very core work that we provide in our business.
+
+___
+
+By joining the two words, we came up with "HeartCode". Through our company name, we give only the best in coding great software applications and technologies that can only come from our hearts.
+
+By the way, HeartCode is turning big one this coming Febraury! Stay tune for more updates!
 
 Edward
