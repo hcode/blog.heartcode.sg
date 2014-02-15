@@ -17,6 +17,10 @@ h2{
     font-weight: normal;
 }
 
+h1,h2,h3,h4,h5,h6,h2 a, h2 a:visited{
+    color:#FF2D2D;
+}
+
 .navbar-default .navbar-toggle,
 .navbar-default{
     background:#FDFDFD;
