@@ -3,7 +3,7 @@ Title: HeartCode, Our Name
 Date: 2014/01/12
 Description: Learn how the name "HeartCode" was given to our company and its meaning behind.
 Author: Edward Neo
-Tags: naming, company
+Tags: naming,company
 */
 
 With the recent opening of our new office at [Woodlands 11](https://goo.gl/maps/g2Kgq), we have curious people asking how we came up with the name "HeartCode" and the meaning behind it. 

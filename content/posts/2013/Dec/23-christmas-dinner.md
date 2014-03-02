@@ -3,7 +3,7 @@ Title: 1st Christmas Dinner
 Date: 2013/12/23
 Description: HeartCode Team had a Christmas dinner and it was a blast!
 Author: Sam Yong
-Tags: cohesion, christmas, dinner
+Tags: cohesion,christmas,dinner
 */
 
 For the first time, we had our Christmas dinner together at Bobby's, CHIJMES, last evening.

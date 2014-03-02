@@ -3,7 +3,7 @@ Title: New Logo, Corporate Identity and Branding
 Date: 2014/01/16
 Description: With HeartCode's first anniversary, we launched our new company logo, corporate identity and branding. 
 Author: Sam Yong
-Tags: corporate-identity, branding, logo
+Tags: corporate-identity,branding,logo
 */
 
 Today we celebrate HeartCode's very first birthday. 365 days ago, the founding team registered HeartCode Pte. Ltd. and set on a mission to improve lives and the society through the use of information technology.

@@ -3,7 +3,7 @@ Title: HeartCode's First Anniversary
 Date: 2014/01/15
 Description: HeartCode's first birthday was welcomed with great friends who stood by our side through the challenges we faced over one year. 
 Author: Sam Yong
-Tags: company, anniversary
+Tags: company,anniversary
 */
 
 ![HeartCode turns One - 11 Woodlands Close, #06-26E, Singapore 737853](https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-prn2/t31/1898489_450993945028406_69557331_o.jpg)
