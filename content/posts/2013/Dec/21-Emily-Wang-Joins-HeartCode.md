@@ -16,3 +16,6 @@ Emily is a lover for cute and great designs. Her role at HeartCode is to expand 
 In her free time, she enjoys watching movie and doing handicrafts. Though a little short sightedness, she doesn't wear spectacles, and will wrongly recognise people walking towards her as acquaintances and say hello to them. 
 
 Emily, welcome to the team!
+
+---
+**Sam Yong** envisions how computing and infocomm technology can empower the society and bring people to greater heights. He is co-founded [HeartCode](http://heartcode.sg/) and writes code at [Github](https://github.com/mauris).

@@ -24,3 +24,5 @@ The fonts Source Sans Pro and Georgia are also carefully chosen to be our corpor
 
 Our believe and hope in the company is best represented in our new logo and we hope it will bring us to greater heights: building our company culture and serving as a clear and unique corporate identity.
 
+---
+**Sam Yong** envisions how computing and infocomm technology can empower the society and bring people to greater heights. He is co-founded [HeartCode](http://heartcode.sg/) and writes code at [Github](https://github.com/mauris).

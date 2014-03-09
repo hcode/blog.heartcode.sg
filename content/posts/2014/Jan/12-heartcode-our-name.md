@@ -13,7 +13,7 @@ With the recent opening of our new office at [Woodlands 11](https://goo.gl/maps/
 We decided that there were two words that best describe what we want to achieve: "Heart" and "Code". 
 ___
 
-###Heart 
+###Heart
 
 Staying true to our vision, we use our hearts to feel and understand the different needs of our society. 
 
@@ -31,4 +31,6 @@ By joining the two words, we came up with "HeartCode". Through our company name,
 
 By the way, HeartCode is turning big 1 year old this coming Febraury! Stay tuned on [our blog](https://blog.heartcode.sg/), [Facebook](https://facebook.com/heartcodesg) or [Twitter](https://twitter.com/heartcodesg) for more updates!
 
-Edward
+
+---
+**Edward Neo** believes that cloud services and mobility technologies are the keys in computing for social causes. He is one of the co-founders of [HeartCode](http://heartcode.sg/).
