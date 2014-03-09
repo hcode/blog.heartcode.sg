@@ -23,4 +23,4 @@ Also, we would like to thank YouPrintIt Pte Ltd for the printing services provid
 ![Our postcard in frame, with doorgifts for our guests.](http://i.imgur.com/7vE5JCC.jpg)
 
 ---
-**Sam Yong** envisions how computing and infocomm technology can empower the society and bring people to greater heights. He is co-founded [HeartCode](http://heartcode.sg/) and writes code at [Github](https://github.com/mauris).
+**Sam Yong** envisions how computing and infocomm technology can empower the society and bring people to greater heights. He is co-founded [HeartCode](http://heartcode.sg/) and writes code for open-source on [Github](https://github.com/mauris).

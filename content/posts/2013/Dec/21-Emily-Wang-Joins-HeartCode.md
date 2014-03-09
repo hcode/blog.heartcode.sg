@@ -7,7 +7,7 @@ Tags: hiring,staff
 Category: New Staff
 */
 
-Last tuesday, Emily Wang joins HeartCode as a Marketing Executive for our community. 
+Last tuesday, Emily Wang joins HeartCode as a Marketing Executive for our community.
 
 ![Emily Wang](http://i.imgur.com/fEswAeg.jpg)
 
@@ -18,4 +18,4 @@ In her free time, she enjoys watching movie and doing handicrafts. Though a litt
 Emily, welcome to the team!
 
 ---
-**Sam Yong** envisions how computing and infocomm technology can empower the society and bring people to greater heights. He is co-founded [HeartCode](http://heartcode.sg/) and writes code at [Github](https://github.com/mauris).
+**Sam Yong** envisions how computing and infocomm technology can empower the society and bring people to greater heights. He is co-founded [HeartCode](http://heartcode.sg/) and writes code for open-source on [Github](https://github.com/mauris).

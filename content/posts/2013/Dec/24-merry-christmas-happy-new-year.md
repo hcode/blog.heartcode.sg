@@ -13,4 +13,4 @@ The HeartCode team wishes all a very merry Christmas and a great new year ahead!
 ... with love from the HeartCode team.
 
 ---
-**Sam Yong** envisions how computing and infocomm technology can empower the society and bring people to greater heights. He is co-founded [HeartCode](http://heartcode.sg/) and writes code at [Github](https://github.com/mauris).
+**Sam Yong** envisions how computing and infocomm technology can empower the society and bring people to greater heights. He is co-founded [HeartCode](http://heartcode.sg/) and writes code for open-source on [Github](https://github.com/mauris).
