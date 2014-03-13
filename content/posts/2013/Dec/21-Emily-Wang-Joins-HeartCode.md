@@ -7,7 +7,7 @@ Tags: hiring,staff
 Category: New Staff
 */
 
-Last tuesday, Emily Wang joins HeartCode as a Marketing Executive for our community. 
+Last Tuesday, Emily Wang joins HeartCode as a Marketing Executive for our community. 
 
 ![Emily Wang](http://i.imgur.com/fEswAeg.jpg)
 

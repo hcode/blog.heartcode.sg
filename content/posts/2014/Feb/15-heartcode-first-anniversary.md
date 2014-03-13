@@ -20,4 +20,4 @@ In particular for the First Anniversary celebration, I would like to thank two f
 
 Also, we would like to thank YouPrintIt Pte Ltd for the printing services provided in printing of our lovely postcards and company banner. 
 
-![Our postcard in frame, with doorgifts for our guests.](http://i.imgur.com/7vE5JCC.jpg)
+![Our postcard in frame, with door gifts for our guests.](http://i.imgur.com/7vE5JCC.jpg)
