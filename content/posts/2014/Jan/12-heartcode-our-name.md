@@ -29,7 +29,7 @@ ___
 
 By joining the two words, we came up with "HeartCode". Through our company name, we give only the best in coding great software applications and technologies that can only come from our hearts.
 
-By the way, HeartCode is turning big 1 year old this coming Febraury! Stay tuned on [our blog](https://blog.heartcode.sg/), [Facebook](https://facebook.com/heartcodesg) or [Twitter](https://twitter.com/heartcodesg) for more updates!
+By the way, HeartCode is turning big 1 year old this coming February! Stay tuned on [our blog](https://blog.heartcode.sg/), [Facebook](https://facebook.com/heartcodesg) or [Twitter](https://twitter.com/heartcodesg) for more updates!
 
 
 ---

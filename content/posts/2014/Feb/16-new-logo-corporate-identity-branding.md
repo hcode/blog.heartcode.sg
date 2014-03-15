@@ -16,13 +16,13 @@ As we evolved and progressed over the year, our identity has mostly stayed the s
 
 ![HeartCode's new logo](http://i.imgur.com/Jtwlq1n.png)
 
-The first thing you would notice is our new logo. In our new logo, we feature the very same heart and "C" from the previous logo, that takes the form of a ring. The upright "C" stands for code and it represents the software technology work that we do, supporting and following where the Heart goes. The new colour scheme of Red, Grey and White represents well the 3 corporate values of Passion, Professionalism and Synergy. 
+The first thing you would notice is our new logo. In our new logo, we feature the very same heart and "C" from the previous logo that takes the form of a ring. The upright "C" stands for code and it represents the software technology work that we do, supporting and following where the Heart goes. The new colour scheme of Red, Grey and White represents well the 3 corporate values of Passion, Professionalism and Synergy. 
 
 ![Our Company's Corporate Identity Guide](http://i.imgur.com/G5uSsB9.jpg)
 
 The fonts Source Sans Pro and Georgia are also carefully chosen to be our corporate fonts. The Source Sans Pro font has a name that coincidentally goes with "source code".
 
-Our believe and hope in the company is best represented in our new logo and we hope it will bring us to greater heights: building our company culture and serving as a clear and unique corporate identity.
+Our beliefs and hope in the company is best represented in our new logo and we hope it will bring us to greater heights: building our company culture and serving as a clear and unique corporate identity.
 
 ---
 **Sam Yong** envisions how computing and infocomm technology can empower the society and bring people to greater heights. He is co-founded [HeartCode](http://heartcode.sg/) and writes code for open-source on [Github](https://github.com/mauris).
