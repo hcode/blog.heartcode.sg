@@ -1,5 +1,5 @@
 /*
-Title: Why having a startup office outside Block 71 might be better?
+Title: Why having a startup office outside Block 71 might be better
 Date: 2014/03/15
 Description: When HeartCode decided to move into Woodlands 11 instead of Blk 71 Ayer Rajah Crescent, there were many reasons behind the consideration. 
 Author: Sam Yong
