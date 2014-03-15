@@ -49,7 +49,7 @@
         {{ content }}
         {% if meta.tags %}<p class="meta">Tagged {% for tag in meta.tags %}<a href="{{ base_url }}/tag/{{ tag }}">#{{ tag }}</a> {% endfor %}</p>{% endif %}
         <div>
-            <div class="fb-like" data-href="https://facebook.com/heartcodesg" data-width="80" data-height="20" data-colorscheme="light" data-layout="button_count" data-action="like" data-show-faces="true" data-send="false"></div>
+            <div class="fb-share-button" data-type="button"></div>
             <a href="https://twitter.com/share" class="twitter-share-button" data-via="heartcodesg" data-related="heartcodesg" data-hashtags="heartcode">Tweet to HeartCode</a>
             <div class="g-plusone" data-size="medium"></div>
         </div>
@@ -102,6 +102,7 @@
             </div>
         </div>
     </div>
+    <div id="fb-root"></div>
     <script src="{{ theme_url }}/asyncloader.js"></script>
     <script>
         var _gaq = _gaq || [['_setAccount', 'UA-34719079-2'], ['_setDomainName', 'blog.heartcode.sg'], ['_trackPageview']];
