@@ -28,3 +28,6 @@ Here's some sneak peek on the items we've brought into our cosy little office.
 Be sure to stay tuned as we will share more about our warm little working space in time.
 
 *Tip of the day*: The new [Spectra](http://www.spectra.edu.sg/) [Secondary](https://www.youtube.com/watch?v=oZp_TKF0RSQ) [School](http://news.asiaone.com/news/edvantage/spectra-secondary-school-admit-sec-1-students-2014) is just right next to Woodlands 11 and it looks great. 
+
+---
+**Sam Yong** envisions how computing and infocomm technology can empower the society and bring people to greater heights. He is co-founded [HeartCode](http://heartcode.sg/) and writes code for open-source on [Github](https://github.com/mauris).

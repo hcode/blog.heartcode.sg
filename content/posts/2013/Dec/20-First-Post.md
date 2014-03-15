@@ -13,3 +13,6 @@ Our company blog has finally arrived! Yeeeeahhh!
 This is where we're going to write updates on HeartCode, technology & business knowledge, our reflections and thoughts on running the company etc.
 
 Feel free to check back time to time for new updates. You can subscribe to our [RSS feeds](http://blog.heartcode.sg/feed) or watch [our blog repository](https://github.com/hcode/blog.heartcode.sg) on Github.
+
+---
+**Sam Yong** envisions how computing and infocomm technology can empower the society and bring people to greater heights. He is co-founded [HeartCode](http://heartcode.sg/) and writes code for open-source on [Github](https://github.com/mauris).

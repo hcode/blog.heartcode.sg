@@ -21,3 +21,6 @@ In particular for the First Anniversary celebration, I would like to thank two f
 Also, we would like to thank YouPrintIt Pte Ltd for the printing services provided in printing of our lovely postcards and company banner. 
 
 ![Our postcard in frame, with door gifts for our guests.](http://i.imgur.com/7vE5JCC.jpg)
+
+---
+**Sam Yong** envisions how computing and infocomm technology can empower the society and bring people to greater heights. He is co-founded [HeartCode](http://heartcode.sg/) and writes code for open-source on [Github](https://github.com/mauris).
