@@ -2,8 +2,8 @@
 
 // Override any of the default settings below:
 
-$config['base_url'] = 'http://blog.heartcode.sg';               // Override base URL (e.g. http://example.com)
 $config['site_title'] = 'The HeartCode Blog';    // Site title
+$config['base_url'] = 'https://blog.heartcode.sg';               // Override base URL (e.g. http://example.com)
 $config['theme'] = 'heartcode';           // Set the theme (defaults to "default")
 $config['date_format'] = 'jS M Y';      // Set the PHP date format
 $config['twig_config'] = array(         // Twig settings
