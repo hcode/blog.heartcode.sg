@@ -19,7 +19,7 @@
         <div class="row">
             <div class="col-md-12">
                 <header>
-                    <a href="{{ base_url }}"><img src="http://heartcode.sg/assets/images/web-logo.png" alt="{{ site_title }}"></a>
+                    <a href="{{ base_url }}"><img src="//heartcode.sg/assets/images/web-logo.png" alt="{{ site_title }}"></a>
                 </header>
             </div>
         </div>
@@ -69,10 +69,10 @@
                     <div class="panel-body">
                         <div class="social-icons">
                             <a target="_blank" title="HeartCode on Facebook" href="https://facebook.com/heartcodesg">
-                                <img alt="HeartCode on Facebook" src="http://heartcode.sg/assets/images/icons/facebook.png">
+                                <img alt="HeartCode on Facebook" src="//heartcode.sg/assets/images/icons/facebook.png">
                             </a>
                             <a target="_blank" title="HeartCode on Twitter" href="https://twitter.com/heartcodesg">
-                                <img alt="HeartCode on Twitter" src="http://heartcode.sg/assets/images/icons/twitter-2.png">
+                                <img alt="HeartCode on Twitter" src="//heartcode.sg/assets/images/icons/twitter-2.png">
                             </a>
                         </div>
                     </div>
@@ -112,7 +112,7 @@
         AsyncLoader.add('//connect.facebook.net/en_US/all.js#xfbml=1&appId=180508825470385', 'fb-sdk');
         AsyncLoader.add('//platform.twitter.com/widgets.js', 'twitter-wjs');
         {% endif %}
-        AsyncLoader.add('//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.0/jquery.min.js', 'jquery');
+        AsyncLoader.add('//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js', 'jquery');
         AsyncLoader.depends(['jquery'], '//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.1.1/js/bootstrap.min.js', 'bootstrap');
         AsyncLoader.add('//heartcode.sg/assets/scripts/instantclick.min.js', 'instantclick', function(){
             InstantClick.init();
